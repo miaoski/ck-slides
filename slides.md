@@ -14,8 +14,6 @@ class: center, middle
 * 所謂的大數據
 * 資安是什麼，能吃嗎？
 
-.footnote[.red[歡迎連上 SSID: FreeWiFi]]
-
 ---
 # Buffer Overflow
 
