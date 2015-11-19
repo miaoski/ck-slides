@@ -1,6 +1,6 @@
 class: center, middle
 
-# 資安是什麼?
+# 資安研究員的每一天
 
 趨勢科技&nbsp;&nbsp;林哲民  
 .small[2015.11.19 / CC BY-SA 3.0 TW]
